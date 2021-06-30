@@ -57,7 +57,7 @@ handleClick() {
           onClick={this.handleClick} />
         }
       </div>
-    );purple_2002
+    ),
   }
 }
 
